@@ -8,17 +8,6 @@ body {
 header img {
 	float: left;
 }
-header h2 {
-	font-size: 170%;
-	color: #800000;
-	margin-left: 30px;
-}
-
-header h3 {
-	font-size: 130%;
-	font-style: italic;
-	margin-left: 30px;
-}
 
 /* the styles for the main content */
 main {
